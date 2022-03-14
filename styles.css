@@ -1,0 +1,52 @@
+*{
+    margin: 5;
+    padding: 10;
+
+}
+
+h1 {
+    font-size: xx-large;
+    color: white;
+    background-color: rgb(49, 48, 48);
+    width: 200vh;
+    height: 10vh;
+    padding-top: 3vh;
+    border: solid orange;
+    text-align: center;
+    
+}
+h1 > div {
+    font-size: smaller;
+    width: 200px;
+    text-align: middle;
+}
+
+h2 {
+    text-align: center;
+}
+img {
+    width:100vh;
+    height: 25vh;
+
+}
+
+
+h3{
+    
+    background-color: rgb(44, 42, 42);
+    color: rgb(236, 221, 134);
+    text-align: center;
+}
+
+div {
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    position: middle;
+    width: 25;
+    text-align: center;
+    
+}
+h4{
+    background-color: rgb(246, 253, 139);
+    border: solid black
+}
